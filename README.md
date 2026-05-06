@@ -1,61 +1,174 @@
-<!-- ═══════════════════════════ GRADUATION README ═══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    FOCUS THE CREATOR — README                    -->
+<!--          Drop this file into: 4Cu5-creator/4Cu5-creator          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Header banner — swap this with a custom image you make in Canva -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=FFE566,FF6B35&height=180&section=header&text=Your%20Name&fontSize=48&fontColor=1a1a2e&fontAlignY=40&desc=Code%20is%20the%20music.%20Repos%20are%20the%20albums.&descAlignY=65&descColor=1a1a2e)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ·  ✦  ·   ✧       *        ·   ✦      ✧    ·    *         ║
+║       ·         ✦      ·         ✧              ✦     ·     ║
+║  ✦         *       ·      ✦            *    ·       ✦       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=FF6B35&center=true&width=500&lines=Full-stack+dev+%F0%9F%8E%93;Building+things+that+hit+different;Open+to+collabs+%F0%9F%94%A5)](https://git.io/typing-svg)
+# 🌌 FOCUS THE CREATOR
+
+### `ポグウォグプラーサート・シワーコン`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=astrophysics+simulation+%7C+HPC+%7C+AI;space+is+the+place+%E2%80%94+Sun+Ra;we+are+made+of+star-stuff+%E2%80%94+Carl+Sagan;high+performance+computing+%2F+high+performance+bars;Kochi+KOSEN+%7C+Space+Science+Research+Club+VP)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🎵 The Tracklist — Featured Projects
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 01 | [**project-alpha**](https://github.com/you/project-alpha) | TypeScript · React · Node | 🟡 Live |
-| 02 | [**ml-vibes**](https://github.com/you/ml-vibes) | Python · PyTorch · FastAPI | 🟠 In progress |
-| 03 | [**cli-tool-drip**](https://github.com/you/cli-tool) | Go · Shell | 🔵 Stable |
-| 04 | [**portfolio-v3**](https://github.com/you/portfolio) | Next.js · Tailwind | 🟣 Shipped |
-
----
-
-### 🧢 Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FFE566)
-![Python](https://img.shields.io/badge/Python-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=4FC3F7)
-![Go](https://img.shields.io/badge/Go-4FC3F7?style=for-the-badge&logo=go&logoColor=1a1a2e)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=FFE566)
-![Docker](https://img.shields.io/badge/Docker-FF6B35?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FFE566)
-![Next.js](https://img.shields.io/badge/Next.js-4FC3F7?style=for-the-badge&logo=nextdotjs&logoColor=1a1a2e)
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=gruvbox&bg_color=1a1a2e&title_color=FFE566&icon_color=FF6B35&text_color=ffffff&border_color=FFE566" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=dark&background=1a1a2e&ring=FFE566&fire=FF6B35&currStreakLabel=FFE566&border=FFE566" height="160"/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                              ▓
+▓   ▶  NOW RUNNING:  cosmos_sim.py  [LIVE]     ▓
+▓                                              ▓
+▓   ████████████████████░░░░░░   79% complete  ▓
+▓   particles: 10^6    dt: 0.001 Gyr           ▓
+▓   method:    N-body Barnes-Hut               ▓
+▓                                              ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
 </div>
 
 ---
 
-### 🎧 Current Frequency
+## 👾 `whoami`
 
-- 🎵 Listening to: Kendrick, Tyler, J. Cole rotations
-- 📖 Reading: *Designing Data-Intensive Applications*
-- 🔨 Building: Something that drops soon 👀
+```python
+focus = {
+    "name"       : "Siwakorn Pogwogprasert (フォーカス)",
+    "school"     : "Kochi National College of Technology (KOSEN)",
+    "year"       : "5th year — Information Security Course",
+    "club"       : "Space Science Research Club 🔭  (Vice President)",
+    "location"   : "Kochi, Japan 🇯🇵",
+    "interests"  : [
+        "Astrophysics Simulation",
+        "High Performance Computing (HPC)",
+        "Artificial Intelligence / ML",
+        "N-body & SPH methods",
+        "Cosmological structure formation",
+    ],
+    "vibe"       : "hip-hop head who writes physics engines 🎵🌌",
+    "motto"      : "drop bars, drop particles, integrate both",
+}
+```
+
+---
+
+## 🎵 `// skill frequency spectrum`
+
+```
+Python       ████████████████████░░  ∿∿∿ 90%
+C / C++      ████████████████░░░░░░  ∿∿  75%
+HPC / MPI    █████████████░░░░░░░░░  ∿∿  60%
+AI / ML      ████████████░░░░░░░░░░  ∿   55%
+CUDA / GPU   █████████░░░░░░░░░░░░░  ∿   40%
+Fortran      ███████░░░░░░░░░░░░░░░      35%
+LaTeX        ████████████░░░░░░░░░░  ∿   50%
+```
+
+---
+
+## 🔭 `pinned —- active projects`
+
+<div align="center">
+
+| 🌌 Project | 🛠 Stack | 📡 About |
+|:---|:---|:---|
+| **astrophysics-sim** | Python · C++ | N-body astrophysics simulation engine |
+| **hpc-utils** | MPI · OpenMP · CUDA | Parallel computing toolkit for simulations |
+| **cosmo-ml** | PyTorch · NumPy | ML models applied to cosmological datasets |
+| **space-research-club** | Various | Resources & experiments from KOSEN Space Club |
+
+</div>
+
+---
+
+## 🌠 `cosmology drop — fun facts i vibe with`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  The observable universe is ~93 billion light-years.   │
+│  There are more stars than grains of sand on Earth.    │
+│  Dark matter = ~27% of all energy. Still undetected.   │
+│  The Big Bang happened 13.8 Gyr ago. I think about it  │
+│  every time my simulation diverges at t=0.             │
+│                                                         │
+│  "The cosmos is within us.                              │
+│   We are made of star-stuff."  — Carl Sagan            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 `github stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4Cu5-creator&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&text_color=C4B5FD&icon_color=E879F9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4Cu5-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=9D4EDD&text_color=C4B5FD)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=4Cu5-creator&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=9D4EDD&fire=E879F9&currStreakLabel=C4B5FD)
+
+</div>
+
+---
+
+## 🌀 `the vibe equation`
+
+<div align="center">
+
+```
+         hip-hop  +  cosmology  +  HPC
+  ─────────────────────────────────────────  =  FOCUS
+              undergraduate grind
+```
+
+```
+  ✦  Sun Ra said "Space is the place"
+  ✦  Kendrick said "sit down, be humble"
+  ✦  My advisor said "your timestep is too large"
+
+  all three are correct.
+```
+
+</div>
+
+---
+
+## 🛸 `connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-4Cu5--creator-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4Cu5-creator)
+[![Email](https://img.shields.io/badge/Email-siwakorn@kochi--ct.jp-E879F9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siwakorn@kochi-ct.jp)
+[![School](https://img.shields.io/badge/KOSEN-高知工業高等専門学校-7C3AED?style=for-the-badge)](https://www.kochi-ct.ac.jp)
+
+</div>
 
 ---
 
 <div align="center">
 
-📍 Osaka, Japan &nbsp;·&nbsp; 🐻 Open for collabs &nbsp;·&nbsp; 🎓 Let's build something
+```
+·  ✦  ·   ✧    *      ·    ✦     ✧   ·   *    ✦   ·
+        the universe is still expanding.
+              so is this repo.
+·  ✦  ·   ✧    *      ·    ✦     ✧   ·   *    ✦   ·
+```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFE566,FF6B35&height=100&section=footer)
+*built with love, physics, and too much coffee ☕🌌*
 
 </div>
