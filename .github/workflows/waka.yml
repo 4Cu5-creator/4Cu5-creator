@@ -27,7 +27,7 @@ jobs:
           PARAMS="$PARAMS&bg_color=000000&border_color=9D4EDD&logo_color=E879F9&title_color=E879F9&text_color=C4B5FD"
           PARAMS="$PARAMS&components=3"
           PARAMS="$PARAMS&component1_type=all_langs&component1_chart_type=donut&component1_chart_color=ff00ff"
-          PARAMS="$PARAMS&component2_type=heatmap&component2_heatmap_color=ff00ff"
+          PARAMS="$PARAMS&component2_type=heatmap&component2_heatmap_color=ff00ff&component2_heatmap_cell_size=16"
           PARAMS="$PARAMS&component3_type=rank"
           curl -fsSL "${BASE}?${PARAMS}" -o wakatime/stats.svg
 
