@@ -18,7 +18,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Sastisfied&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=magenta&components=2&component1_type=weekly_avg&component1_chart_type=radar&component1_chart_color=ff00ff&component2_type=heatmap" -o wakatime/stats.svg
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Sastisfied&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=magenta&components=2&component1_type=all_langs&component1_chart_type=bar&component1_chart_color=ff00ff&component2_type=heatmap&component2_heatmap_color=ff00ff" -o wakatime/stats.svg
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
         run: |
           set -euo pipefail
