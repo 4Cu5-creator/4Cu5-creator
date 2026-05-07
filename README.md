@@ -1,4 +1,5 @@
 ![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/4Cu5-creator)
+md <img src="wakatime/stats.svg?v=1" height="300"/>
 ---
  
 ## 🛠 `skills`
