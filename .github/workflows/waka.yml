@@ -1,36 +1,46 @@
 name: Update WakaTime Stats SVG
+
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
-  generate-stats:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
-      - name: Generate SVG from Vercel API
+
+      - name: Fetch WakaTime SVG
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Sastisfied&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=magenta&components=2&component1_type=all_langs&component1_chart_type=bar&component1_chart_color=ff00ff&component2_type=heatmap&component2_heatmap_color=ff00ff" -o wakatime/stats.svg
-      - name: Bump README cache-buster for wakatime/stats.svg (daily)
+          BASE="https://wakatime-readme-stats.vercel.app/api/wakatimeStats"
+          PARAMS="username=Sastisfied&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN"
+          PARAMS="$PARAMS&theme=magenta&components=2"
+          PARAMS="$PARAMS&component1_type=all_langs&component1_chart_type=bar&component1_chart_color=ff00ff"
+          PARAMS="$PARAMS&component2_type=heatmap&component2_heatmap_color=ff00ff"
+          curl -fsSL "${BASE}?${PARAMS}" -o wakatime/stats.svg
+
+      - name: Bump README cache-buster
         run: |
           set -euo pipefail
-          V="$(date -u +%Y%m%d)"  # changes once per day
-          sed -i -E "s#(wakatime/stats\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
-          sed -i -E "s#(wakatime/stats\.svg)(\"|')#\1?v=$V\2#g" README.md
-      - name: Commit changes to repo
+          V="$(date -u +%Y%m%d)"
+          sed -i -E "s#(wakatime/stats\.svg)(\?v=[0-9]+)?([\"'])#\1?v=$V\3#g" README.md
+
+      - name: Commit and push
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add wakatime/stats.svg README.md
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Update WakaTime stats SVG (cache-bust v=$(date -u +%Y%m%d))"
+          git commit -m "chore: update WakaTime stats (v=$(date -u +%Y%m%d))"
           git push
