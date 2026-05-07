@@ -30,7 +30,7 @@ jobs:
           curl -fsSL "${BASE}?${PARAMS}" -o wakatime/stats.svg
           # Patch fetched SVG to match cosmic theme
           sed -i \
-            -e 's/fill="#f8f6f3"/fill="#0D0D1A"/g' \
+            -e 's/fill="#f8f6f3"/fill="#000000"/g' \
             -e 's/stroke="#dcd7ce"/stroke="#9D4EDD"/g' \
             -e 's/style="color:#7a7266"/style="color:#E879F9"/g' \
             -e 's/fill="#2d2a26"/fill="#E879F9"/g' \
