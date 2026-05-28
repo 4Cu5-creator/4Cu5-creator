@@ -1,10 +1,10 @@
 
-<svg width="696" height="721.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="696" height="485" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
     width="694"
-    height="719.5"
+    height="483"
     fill="#000000"
     stroke="#9D4EDD"
     stroke-width="2"
@@ -18,367 +18,14 @@
         Stats
       </text>
     </g>
-  <g transform="translate(99, 56) scale(1)">
-      <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#C4B5FD" font-weight="bold">I mostly code in Markdown</text>
-      <defs>
-                <path id="dayPath0" fill="none" d="
-                    M 344.6929638050515 144.17181062104058
-                    A 96 96 0 0 1 276.9594023011175 228.33829170321206
-                " />
-                
-
-                <path id="timePath0" fill="none" d="
-                M 301 136.5
-                A 52 52 0 0 1 260.1208234284558 187.29692201573937
-                " />
-            
-
-                <path id="pctPath0" fill="none" d="
-                M 313 136.5
-                A 64 64 0 0 1 262.687167296561 199.01928863475615
-                " />
-            
-
-                <path id="dayPath1" fill="none" d="
-                    M 261.97077284586675 231.61970906064067
-                    A 96 96 0 0 1 187.45876735057283 210.17955404309313
-                " />
-                
-
-                <path id="timePath1" fill="none" d="
-                M 260.1208234284558 187.29692201573937
-                A 52 52 0 0 1 212.58240410672056 173.6181722253911
-                " />
-            
-
-                <path id="pctPath1" fill="none" d="
-                M 262.687167296561 199.01928863475615
-                A 64 64 0 0 1 204.17834351596375 182.18390427740442
-                " />
-            
-
-                <path id="dayPath2" fill="none" d="
-                    M 176.50632166163558 199.4338271597537
-                    A 96 96 0 0 1 153.2381219669171 129.74258070140976
-                " />
-                
-
-                <path id="timePath2" fill="none" d="
-                M 212.58240410672056 173.6181722253911
-                A 52 52 0 0 1 197.58739073962178 128.70618135701946
-                " />
-            
-
-                <path id="pctPath2" fill="none" d="
-                M 204.17834351596375 182.18390427740442
-                A 64 64 0 0 1 185.72294244876525 126.90760782402396
-                " />
-            
-
-                <path id="dayPath3" fill="none" d="
-                    M 155.53784122244338 114.5722806329798
-                    A 96 96 0 0 1 190.7135421990124 60.2196693962743
-                " />
-                
-
-                <path id="timePath3" fill="none" d="
-                M 197.58739073962178 128.70618135701946
-                A 52 52 0 0 1 220.83110095475632 92.79058309038119
-                " />
-            
-
-                <path id="pctPath3" fill="none" d="
-                M 185.72294244876525 126.90760782402396
-                A 64 64 0 0 1 214.33058579046934 82.70379457277684
-                " />
-            
-
-                <path id="dayPath4" fill="none" d="
-                    M 203.61086407927027 51.9078825163389
-                    A 96 96 0 0 1 267.4653019061692 42.292608434825965
-                " />
-                
-
-                <path id="timePath4" fill="none" d="
-                M 220.83110095475632 92.79058309038119
-                A 52 52 0 0 1 263.04801629509814 86.43351182504752
-                " />
-            
-
-                <path id="pctPath4" fill="none" d="
-                M 214.33058579046934 82.70379457277684
-                A 64 64 0 0 1 266.2898662093516 74.87970686159694
-                " />
-            
-
-                <path id="dayPath5" fill="none" d="
-                    M 282.2384025115078 46.437751535490776
-                    A 96 96 0 0 1 299.98566549365756 55.15836297338947
-                " />
-                
-
-                <path id="timePath5" fill="none" d="
-                M 263.04801629509814 86.43351182504752
-                A 52 52 0 0 1 280.0499531284505 94.78788652296522
-                " />
-            
-
-                <path id="pctPath5" fill="none" d="
-                M 266.2898662093516 74.87970686159694
-                A 64 64 0 0 1 287.2153269273237 85.16201418211105
-                " />
-            
-
-                <path id="dayPath6" fill="none" d="
-                    M 312.29364377054856 64.32026144237636
-                    A 96 96 0 0 1 325.38117593700326 78.34575714119771
-                " />
-                
-
-                <path id="timePath6" fill="none" d="
-                M 280.0499531284505 94.78788652296522
-                A 52 52 0 0 1 292.75814355492423 108.40685363604423
-                " />
-            
-
-                <path id="pctPath6" fill="none" d="
-                M 287.2153269273237 85.16201418211105
-                A 64 64 0 0 1 302.8561766829837 101.92381985974674
-                " />
-            
-
-                <path id="dayPath7" fill="none" d="
-                    M 333.6706105005972 91.25745677510872
-                    A 96 96 0 0 1 340.6459086094045 107.91630823079922
-                " />
-                
-
-                <path id="timePath7" fill="none" d="
-                M 292.75814355492423 108.40685363604423
-                A 52 52 0 0 1 299.7200714896163 125.0337735898766
-                " />
-            
-
-                <path id="pctPath7" fill="none" d="
-                M 302.8561766829837 101.92381985974674
-                A 64 64 0 0 1 311.42470337183545 122.38772134138658
-                " />
-            </defs>
-
-            <path d="
-                M 329 136.5
-                A 80 80 0 0 1 266.10895912070123 214.6491107934452
-                L 257.5544795603506 175.5745553967226
-                A 40 40 0 0 0 289 136.5
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath0" font-family="Calibri" startOffset="50%" text-anchor="middle">Markdown</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath0" startOffset="50%" text-anchor="middle">03:02</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath0" startOffset="50%" text-anchor="middle">21.6%</textPath>
-                </text>
-            
-
-            <path d="
-                M 266.10895912070123 214.6491107934452
-                A 80 80 0 0 1 192.9729293949547 193.60488034675552
-                L 220.98646469747734 165.05244017337776
-                A 40 40 0 0 0 257.5544795603506 175.5745553967226
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath1" font-family="Calibri" startOffset="50%" text-anchor="middle">Python</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath1" startOffset="50%" text-anchor="middle">02:13</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath1" startOffset="50%" text-anchor="middle">15.8%</textPath>
-                </text>
-            
-
-            <path d="
-                M 192.9729293949547 193.60488034675552
-                A 80 80 0 0 1 169.90367806095657 124.50950978002994
-                L 209.45183903047828 130.50475489001496
-                A 40 40 0 0 0 220.98646469747734 165.05244017337776
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath2" font-family="Calibri" startOffset="50%" text-anchor="middle">Other</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath2" startOffset="50%" text-anchor="middle">02:07</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath2" startOffset="50%" text-anchor="middle">15.0%</textPath>
-                </text>
-            
-
-            <path d="
-                M 169.90367806095657 124.50950978002994
-                A 80 80 0 0 1 205.66323223808666 69.25474321597106
-                L 227.33161611904333 102.87737160798554
-                A 40 40 0 0 0 209.45183903047828 130.50475489001496
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath3" font-family="Calibri" startOffset="50%" text-anchor="middle">C</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath3" startOffset="50%" text-anchor="middle">01:54</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath3" startOffset="50%" text-anchor="middle">13.5%</textPath>
-                </text>
-            
-
-            <path d="
-                M 205.66323223808666 69.25474321597106
-                A 80 80 0 0 1 270.61233276168946 59.47463357699618
-                L 259.80616638084473 97.98731678849809
-                A 40 40 0 0 0 227.33161611904333 102.87737160798554
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath4" font-family="Calibri" startOffset="50%" text-anchor="middle">YAML</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath4" startOffset="50%" text-anchor="middle">01:53</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath4" startOffset="50%" text-anchor="middle">13.5%</textPath>
-                </text>
-            
-
-            <path d="
-                M 270.61233276168946 59.47463357699618
-                A 80 80 0 0 1 296.76915865915464 72.3275177276388
-                L 272.8845793295773 104.4137588638194
-                A 40 40 0 0 0 259.80616638084473 97.98731678849809
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath5" font-family="Calibri" startOffset="2%" text-anchor="start">SSH Config</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath5" startOffset="50%" text-anchor="middle">49m</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath5" startOffset="50%" text-anchor="middle">5.8%</textPath>
-                </text>
-            
-
-            <path d="
-                M 296.76915865915464 72.3275177276388
-                A 80 80 0 0 1 316.3202208537296 93.27977482468343
-                L 282.6601104268648 114.88988741234172
-                A 40 40 0 0 0 272.8845793295773 104.4137588638194
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath6" font-family="Calibri" startOffset="2%" text-anchor="start">Assembly</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath6" startOffset="50%" text-anchor="middle">48m</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath6" startOffset="50%" text-anchor="middle">5.7%</textPath>
-                </text>
-            
-
-            <path d="
-                M 316.3202208537296 93.27977482468343
-                A 80 80 0 0 1 327.0308792147943 118.85965167673322
-                L 288.0154396073972 127.67982583836661
-                A 40 40 0 0 0 282.6601104268648 114.88988741234172
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath7" font-family="Calibri" startOffset="2%" text-anchor="start">JavaScript</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath7" startOffset="50%" text-anchor="middle">46m</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath7" startOffset="50%" text-anchor="middle">5.5%</textPath>
-                </text>
-            
-
-            <path d="
-                M 327.0308792147943 118.85965167673322
-                A 80 80 0 0 1 328.8141763807983 131.0504817960833
-                L 288.9070881903991 133.77524089804163
-                A 40 40 0 0 0 288.0154396073972 127.67982583836661
-                Z
-            " fill="#ff00ff" />
-            
-
-            <path d="
-                M 328.8141763807983 131.0504817960833
-                A 80 80 0 0 1 329 136.49999999999991
-                L 289 136.49999999999994
-                A 40 40 0 0 0 288.9070881903991 133.77524089804163
-                Z
-            " fill="#ff00ff" />
-            
-      <text font-family="Calibri" x="245" y="266.5" font-size="12" text-anchor="middle" fill="#C4B5FD"><tspan font-weight="bold">Total:</tspan> 12 hrs 18 mins</text>
+  <g transform="translate(348, 56) scale(1)">
+      <text x="20" y="20" fill="black" font-size="14">
+              ⚠︎ Error: No all-time language data available.
+            </text>
     </g>
-<g transform="translate(0, 352.5) scale(1)">
+<g transform="translate(0, 116) scale(1)">
       <text x="40" y="18" font-size="14" fill="#C4B5FD" font-family="Calibri" font-weight="bold">
-        This year, my most productive month was May
+        This year, my most productive month was January
       </text>
       <g transform="translate(40, 50)">
         <text x="372" y="-6" font-size="10" fill="#C4B5FD" font-family="Calibri">Jan</text>
@@ -733,31 +380,31 @@
 <rect x="564" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="564" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="576" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.26" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.55" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.39" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.92" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.91" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.23" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.70" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.18" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.57" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.44" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.38" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="1.00" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.60" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.44" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.67" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.39" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.45" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="624" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
@@ -772,7 +419,7 @@
         <text x="598" y="98" font-size="10" fill="#C4B5FD" font-family="Calibri">More</text>
       </g>
     </g>
-<g transform="translate(150.5, 546.5) scale(1)">
+<g transform="translate(150.5, 310) scale(1)">
       <text x="197.5" y="25" font-size="16" text-anchor="middle" fill="#C4B5FD" font-family="Calibri" font-weight="bold">Yearly Ranking</text>
       <g transform="translate(0, 35)"><g transform="translate(60,8) scale(0.6)" ><path d="M14.4012 3.17499C13.8719 2.11134 13.0447 1.32715 11.9987 1.32715C10.9539 1.32715 10.1241 2.11 9.58985 3.17284L7.82915 6.69424L7.82642 6.69975C7.77359 6.8076 7.64731 6.9611 7.45702 7.10219C7.26737 7.2428 7.0834 7.31975 6.96547 7.34005L6.96441 7.34023L3.77705 7.86979C2.62694 8.06147 1.66106 8.62118 1.34801 9.6015C1.03519 10.5811 1.49663 11.597 2.31964 12.42L4.79964 14.9C4.89724 14.9976 5.0066 15.1815 5.07518 15.4211C5.14334 15.6592 5.1491 15.8751 5.11856 16.0137L5.11813 16.0156L4.40928 19.0806C4.11373 20.3578 4.21624 21.6259 5.12539 22.2893C6.03398 22.9522 7.27361 22.6647 8.40273 21.9946L11.3871 20.2279L11.389 20.2268C11.5232 20.1494 11.7443 20.0896 12.0037 20.0896C12.265 20.0896 12.4816 20.1502 12.6076 20.2249L15.5979 21.995C16.7284 22.6628 17.9695 22.9555 18.878 22.2932C19.7878 21.6299 19.8854 20.3595 19.5908 19.0812L18.8818 16.0156L18.8814 16.0137C18.8508 15.8751 18.8566 15.6592 18.9248 15.4211C18.9933 15.1815 19.1027 14.9976 19.2003 14.9L21.6785 12.4218L21.6795 12.4208C22.5077 11.5978 22.9706 10.5811 22.6552 9.60014C22.3403 8.62044 21.3726 8.06141 20.2233 7.86985L17.0333 7.33985" fill="#9c8f80" /></g>
 <g transform="translate(88,24) scale(0.6)" ><path d="M13.73 3.50965L15.49 7.02965C15.73 7.51965 16.37 7.98965 16.91 8.07965L20.1 8.60965C22.14 8.94965 22.62 10.4296 21.15 11.8896L18.67 14.3696C18.25 14.7896 18.02 15.5996 18.15 16.1796L18.86 19.2496C19.42 21.6796 18.13 22.6196 15.98 21.3496L12.99 19.5796C12.45 19.2596 11.56 19.2596 11.01 19.5796L8.02003 21.3496C5.88003 22.6196 4.58003 21.6696 5.14003 19.2496L5.85003 16.1796C5.98003 15.5996 5.75003 14.7896 5.33003 14.3696L2.85003 11.8896C1.39003 10.4296 1.86003 8.94965 3.90003 8.60965L7.09003 8.07965C7.62003 7.98965 8.26003 7.51965 8.50003 7.02965L10.26 3.50965C11.22 1.59965 12.78 1.59965 13.73 3.50965Z" stroke="#9c8f80" fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /></g>
