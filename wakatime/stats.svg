@@ -23,152 +23,152 @@
       <defs>
                 <path id="dayPath0" fill="none" d="
                     M 344.6929638050515 144.17181062104058
-                    A 96 96 0 0 1 277.1746298931423 228.2724916866947
+                    A 96 96 0 0 1 280.451110960801 227.20186116795722
                 " />
                 
 
                 <path id="timePath0" fill="none" d="
                 M 301 136.5
-                A 52 52 0 0 1 260.2398804721658 187.27071091654545
+                A 52 52 0 0 1 262.05530936296583 186.83447027075238
                 " />
             
 
                 <path id="pctPath0" fill="none" d="
                 M 313 136.5
-                A 64 64 0 0 1 262.83369904266556 198.9870288203636
+                A 64 64 0 0 1 265.0680730621118 198.45011725631065
                 " />
             
 
                 <path id="dayPath1" fill="none" d="
-                    M 262.19373453747556 231.5890391630635
-                    A 96 96 0 0 1 180.61426066065826 203.87500022272064
+                    M 265.59893697512365 231.05408659225614
+                    A 96 96 0 0 1 185.12467084193574 208.16548907911636
                 " />
                 
 
                 <path id="timePath1" fill="none" d="
-                M 260.2398804721658 187.27071091654545
-                A 52 52 0 0 1 209.15972648356177 169.91784861620192
+                M 262.05530936296583 186.83447027075238
+                A 52 52 0 0 1 211.40932852487452 172.42967322491518
                 " />
             
 
                 <path id="pctPath1" fill="none" d="
-                M 262.83369904266556 198.9870288203636
-                A 64 64 0 0 1 199.96581721053755 177.62965983532547
+                M 265.0680730621118 198.45011725631065
+                A 64 64 0 0 1 202.73455818446095 180.7211362768187
                 " />
             
 
                 <path id="dayPath2" fill="none" d="
-                    M 170.7536681242696 192.11934508777554
-                    A 96 96 0 0 1 153.27436776429016 129.2471844726596
+                    M 174.5229151243426 197.07362320700423
+                    A 96 96 0 0 1 154.04804602618802 122.35339487526802
                 " />
                 
 
                 <path id="timePath2" fill="none" d="
-                M 209.15972648356177 169.91784861620192
-                A 52 52 0 0 1 197.62840536624108 128.44026893843525
+                M 211.40932852487452 172.42967322491518
+                A 52 52 0 0 1 198.34455310241532 124.75156607857971
                 " />
             
 
                 <path id="pctPath2" fill="none" d="
-                M 199.96581721053755 177.62965983532547
-                A 64 64 0 0 1 185.7734219892198 126.58033100115108
+                M 202.73455818446095 180.7211362768187
+                A 64 64 0 0 1 186.65483458758808 122.04038901979041
                 " />
             
 
                 <path id="dayPath3" fill="none" d="
-                    M 155.65254970124568 114.08898657531101
-                    A 96 96 0 0 1 190.99675066247414 60.004097715702386
+                    M 157.51465218537822 107.40651043209697
+                    A 96 96 0 0 1 195.43178947815954 56.8354104919395
                 " />
                 
 
                 <path id="timePath3" fill="none" d="
-                M 197.62840536624108 128.44026893843525
-                A 52 52 0 0 1 220.9933463846935 92.68644783549001
+                M 198.34455310241532 124.75156607857971
+                A 52 52 0 0 1 223.52513913777432 91.16754513540832
                 " />
             
 
                 <path id="pctPath3" fill="none" d="
-                M 185.7734219892198 126.58033100115108
-                A 64 64 0 0 1 214.5302724734689 82.57562810521847
+                M 186.65483458758808 122.04038901979041
+                A 64 64 0 0 1 217.6463250926453 80.70620939742562
                 " />
             
 
                 <path id="dayPath4" fill="none" d="
-                    M 203.92479969482812 51.74018453625189
-                    A 96 96 0 0 1 267.6766577946053 42.334281961941116
+                    M 208.80802058231407 49.31855248684896
+                    A 96 96 0 0 1 270.9015054920848 43.031694905812174
                 " />
                 
 
                 <path id="timePath4" fill="none" d="
-                M 220.9933463846935 92.68644783549001
-                A 52 52 0 0 1 263.16033065259126 86.46516177892363
+                M 223.52513913777432 91.16754513540832
+                A 52 52 0 0 1 264.87134739803474 86.98131330728877
                 " />
             
 
                 <path id="pctPath4" fill="none" d="
-                M 214.5302724734689 82.57562810521847
-                A 64 64 0 0 1 266.42809926472773 74.91866065098293
+                M 217.6463250926453 80.70620939742562
+                A 64 64 0 0 1 268.53396602835045 75.55392407050925
                 " />
             
 
                 <path id="dayPath5" fill="none" d="
-                    M 282.4404194594707 46.51256561955634
-                    A 96 96 0 0 1 300.11658341427363 55.24057039302082
+                    M 285.5129665116665 47.7148476572917
+                    A 96 96 0 0 1 302.1050238572854 56.525901436045245
                 " />
                 
 
                 <path id="timePath5" fill="none" d="
-                M 263.16033065259126 86.46516177892363
-                A 52 52 0 0 1 280.11708167579883 94.83794018556375
+                M 264.87134739803474 86.98131330728877
+                A 52 52 0 0 1 281.1350705034571 95.61800831982566
                 " />
             
 
                 <path id="pctPath5" fill="none" d="
-                M 266.42809926472773 74.91866065098293
-                A 64 64 0 0 1 287.2979466779063 85.22361868992462
+                M 268.53396602835045 75.55392407050925
+                A 64 64 0 0 1 288.55085600425485 86.18370254747774
                 " />
             
 
                 <path id="dayPath6" fill="none" d="
-                    M 312.4097923749975 64.42227645825855
-                    A 96 96 0 0 1 325.4385532153401 78.42119506785957
+                    M 314.1680583950259 66.00798509744178
+                    A 96 96 0 0 1 326.30802926667513 79.58367008579259
                 " />
                 
 
                 <path id="timePath6" fill="none" d="
-                M 280.11708167579883 94.83794018556375
-                A 52 52 0 0 1 292.785858022076 108.45006885444099
+                M 281.1350705034571 95.61800831982566
+                A 52 52 0 0 1 293.20499772588084 109.11536605950577
                 " />
             
 
                 <path id="pctPath6" fill="none" d="
-                M 287.2979466779063 85.22361868992462
-                A 64 64 0 0 1 302.89028679640126 101.97700782085045
+                M 288.55085600425485 86.18370254747774
+                A 64 64 0 0 1 303.406151047238 102.79583515016095
                 " />
             
 
                 <path id="dayPath7" fill="none" d="
-                    M 333.71523628003075 91.34107239959565
-                    A 96 96 0 0 1 340.6568950082748 107.95155700494176
+                    M 334.38840332505947 92.62722281873442
+                    A 96 96 0 0 1 340.82347317641256 108.49196947622615
                 " />
                 
 
                 <path id="timePath7" fill="none" d="
-                M 292.785858022076 108.45006885444099
-                A 52 52 0 0 1 299.72447760460966 125.05328118020496
+                M 293.20499772588084 109.11536605950577
+                A 52 52 0 0 1 299.79102596146987 125.35227907681154
                 " />
             
 
                 <path id="pctPath7" fill="none" d="
-                M 302.89028679640126 101.97700782085045
-                A 64 64 0 0 1 311.4301262825965 122.41173068332918
+                M 303.406151047238 102.79583515016095
+                A 64 64 0 0 1 311.5120319525783 122.77972809453729
                 " />
             </defs>
 
             <path d="
                 M 329 136.5
-                A 80 80 0 0 1 266.29212380333195 214.60878602545452
-                L 257.646061901666 175.55439301272725
+                A 80 80 0 0 1 269.08509132763976 213.9376465703883
+                L 259.04254566381985 175.21882328519416
                 A 40 40 0 0 0 289 136.5
                 Z
             " fill="#ff00ff" />
@@ -185,15 +185,15 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath0" startOffset="50%" text-anchor="middle">21.5%</textPath>
+                <textPath font-family="Calibri" href="#pctPath0" startOffset="50%" text-anchor="middle">21.0%</textPath>
                 </text>
             
 
             <path d="
-                M 266.29212380333195 214.60878602545452
-                A 80 80 0 0 1 187.70727151317192 187.9120747941568
-                L 218.35363575658596 162.2060373970784
-                A 40 40 0 0 0 257.646061901666 175.55439301272725
+                M 269.08509132763976 213.9376465703883
+                A 80 80 0 0 1 191.1681977305762 191.77642034602337
+                L 220.0840988652881 164.1382101730117
+                A 40 40 0 0 0 259.04254566381985 175.21882328519416
                 Z
             " fill="#ff00ff" />
             
@@ -209,63 +209,63 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath1" startOffset="50%" text-anchor="middle">17.4%</textPath>
+                <textPath font-family="Calibri" href="#pctPath1" startOffset="50%" text-anchor="middle">16.9%</textPath>
                 </text>
             
 
             <path d="
-                M 187.70727151317192 187.9120747941568
-                A 80 80 0 0 1 169.96677748652473 124.10041375143885
-                L 209.48338874326237 130.30020687571943
-                A 40 40 0 0 0 218.35363575658596 162.2060373970784
+                M 191.1681977305762 191.77642034602337
+                A 80 80 0 0 1 171.0685432344851 118.42548627473802
+                L 210.03427161724255 127.462743137369
+                A 40 40 0 0 0 220.0840988652881 164.1382101730117
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath2" font-family="Calibri" startOffset="50%" text-anchor="middle">Other</textPath>
+                    <textPath href="#dayPath2" font-family="Calibri" startOffset="50%" text-anchor="middle">C</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath2" startOffset="50%" text-anchor="middle">01:55</textPath>
+                <textPath font-family="Calibri" href="#timePath2" startOffset="50%" text-anchor="middle">02:17</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath2" startOffset="50%" text-anchor="middle">13.6%</textPath>
+                <textPath font-family="Calibri" href="#pctPath2" startOffset="50%" text-anchor="middle">15.8%</textPath>
                 </text>
             
 
             <path d="
-                M 169.96677748652473 124.10041375143885
-                A 80 80 0 0 1 205.91284059183613 69.09453513152309
-                L 227.45642029591806 102.79726756576154
-                A 40 40 0 0 0 209.48338874326237 130.30020687571943
+                M 171.0685432344851 118.42548627473802
+                A 80 80 0 0 1 209.80790636580662 66.75776174678204
+                L 229.4039531829033 101.62888087339101
+                A 40 40 0 0 0 210.03427161724255 127.462743137369
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath3" font-family="Calibri" startOffset="50%" text-anchor="middle">C</textPath>
+                    <textPath href="#dayPath3" font-family="Calibri" startOffset="50%" text-anchor="middle">Other</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath3" startOffset="50%" text-anchor="middle">01:54</textPath>
+                <textPath font-family="Calibri" href="#timePath3" startOffset="50%" text-anchor="middle">01:55</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath3" startOffset="50%" text-anchor="middle">13.5%</textPath>
+                <textPath font-family="Calibri" href="#pctPath3" startOffset="50%" text-anchor="middle">13.2%</textPath>
                 </text>
             
 
             <path d="
-                M 205.91284059183613 69.09453513152309
-                A 80 80 0 0 1 270.7851240809096 59.523325813728675
-                L 259.89256204045483 98.01166290686433
-                A 40 40 0 0 0 227.45642029591806 102.79726756576154
+                M 209.80790636580662 66.75776174678204
+                A 80 80 0 0 1 273.417457535438 60.31740508813657
+                L 261.20872876771904 98.40870254406829
+                A 40 40 0 0 0 229.4039531829033 101.62888087339101
                 Z
             " fill="#ff00ff" />
             
@@ -281,15 +281,15 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath4" startOffset="50%" text-anchor="middle">13.4%</textPath>
+                <textPath font-family="Calibri" href="#pctPath4" startOffset="50%" text-anchor="middle">13.1%</textPath>
                 </text>
             
 
             <path d="
-                M 270.7851240809096 59.523325813728675
-                A 80 80 0 0 1 296.87243334738287 72.40452336240578
-                L 272.93621667369143 104.45226168120288
-                A 40 40 0 0 0 259.89256204045483 98.01166290686433
+                M 273.417457535438 60.31740508813657
+                A 80 80 0 0 1 298.4385700053186 73.60462818434718
+                L 273.71928500265926 105.05231409217359
+                A 40 40 0 0 0 261.20872876771904 98.40870254406829
                 Z
             " fill="#ff00ff" />
             
@@ -305,15 +305,15 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath5" startOffset="50%" text-anchor="middle">5.8%</textPath>
+                <textPath font-family="Calibri" href="#pctPath5" startOffset="50%" text-anchor="middle">5.7%</textPath>
                 </text>
             
 
             <path d="
-                M 296.87243334738287 72.40452336240578
-                A 80 80 0 0 1 316.36285849550154 93.34625977606305
-                L 282.68142924775077 114.92312988803153
-                A 40 40 0 0 0 272.93621667369143 104.45226168120288
+                M 298.4385700053186 73.60462818434718
+                A 80 80 0 0 1 317.00768880904747 94.36979393770119
+                L 283.00384440452376 115.4348969688506
+                A 40 40 0 0 0 273.71928500265926 105.05231409217359
                 Z
             " fill="#ff00ff" />
             
@@ -329,15 +329,15 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath6" startOffset="50%" text-anchor="middle">5.7%</textPath>
+                <textPath font-family="Calibri" href="#pctPath6" startOffset="50%" text-anchor="middle">5.6%</textPath>
                 </text>
             
 
             <path d="
-                M 316.36285849550154 93.34625977606305
-                A 80 80 0 0 1 327.03765785324566 118.88966335416147
-                L 288.01882892662286 127.69483167708074
-                A 40 40 0 0 0 282.68142924775077 114.92312988803153
+                M 317.00768880904747 94.36979393770119
+                A 80 80 0 0 1 327.1400399407229 119.34966011817161
+                L 288.07001997036144 127.9248300590858
+                A 40 40 0 0 0 283.00384440452376 115.4348969688506
                 Z
             " fill="#ff00ff" />
             
@@ -353,28 +353,28 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath7" startOffset="50%" text-anchor="middle">5.5%</textPath>
+                <textPath font-family="Calibri" href="#pctPath7" startOffset="50%" text-anchor="middle">5.4%</textPath>
                 </text>
             
 
             <path d="
-                M 327.03765785324566 118.88966335416147
-                A 80 80 0 0 1 328.8148184640189 131.0598939756927
-                L 288.90740923200946 133.77994698784636
-                A 40 40 0 0 0 288.01882892662286 127.69483167708074
+                M 327.1400399407229 119.34966011817161
+                A 80 80 0 0 1 328.824514234027 131.20406502101685
+                L 288.9122571170135 133.85203251050842
+                A 40 40 0 0 0 288.07001997036144 127.9248300590858
                 Z
             " fill="#ff00ff" />
             
 
             <path d="
-                M 328.8148184640189 131.0598939756927
+                M 328.824514234027 131.20406502101685
                 A 80 80 0 0 1 329 136.49999999999991
                 L 289 136.49999999999994
-                A 40 40 0 0 0 288.90740923200946 133.77994698784636
+                A 40 40 0 0 0 288.9122571170135 133.85203251050842
                 Z
             " fill="#ff00ff" />
             
-      <text font-family="Calibri" x="245" y="266.5" font-size="12" text-anchor="middle" fill="#C4B5FD"><tspan font-weight="bold">Total:</tspan> 12 hrs 32 mins</text>
+      <text font-family="Calibri" x="245" y="266.5" font-size="12" text-anchor="middle" fill="#C4B5FD"><tspan font-weight="bold">Total:</tspan> 12 hrs 55 mins</text>
     </g>
 <g transform="translate(0, 352.5) scale(1)">
       <text x="40" y="18" font-size="14" fill="#C4B5FD" font-family="Calibri" font-weight="bold">
@@ -760,7 +760,7 @@
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.30" stroke="#C4B5FD" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#C4B5FD" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.1"/>
