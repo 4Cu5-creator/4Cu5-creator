@@ -19,235 +19,217 @@
       </text>
     </g>
   <g transform="translate(99, 56) scale(1)">
-        <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#C4B5FD" font-weight="bold">I mostly code in Markdown</text>
+        <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#C4B5FD" font-weight="bold">I mostly code in C</text>
       <defs>
                 <path id="dayPath0" fill="none" d="
                     M 344.6929638050515 144.17181062104058
-                    A 96 96 0 0 1 291.01376517829056 222.81826884005181
+                    A 96 96 0 0 1 284.6139319232005 225.64958133928417
                 " />
                 
 
                 <path id="timePath0" fill="none" d="
                 M 301 136.5
-                A 52 52 0 0 1 267.9482013389587 184.92484554459915
+                A 52 52 0 0 1 264.3701527411157 186.1765377689989
                 " />
             
 
                 <path id="pctPath0" fill="none" d="
                 M 313 136.5
-                A 64 64 0 0 1 272.3208631864107 196.0998099010451
+                A 64 64 0 0 1 267.91711106598854 197.64035417722943
                 " />
             
 
                 <path id="dayPath1" fill="none" d="
-                    M 276.7250634717019 228.4093077739687
-                    A 96 96 0 0 1 185.23856063630691 208.26683670240794
+                    M 269.9558938434801 230.18484676414215
+                    A 96 96 0 0 1 179.63599588306164 202.86742373232033
                 " />
                 
 
                 <path id="timePath1" fill="none" d="
-                M 267.9482013389587 184.92484554459915
-                A 52 52 0 0 1 211.46643447911524 172.48932424052236
+                M 264.3701527411157 186.1765377689989
+                A 52 52 0 0 1 208.6751429075467 169.33147728131067
                 " />
             
 
                 <path id="pctPath1" fill="none" d="
-                M 272.3208631864107 196.0998099010451
-                A 64 64 0 0 1 202.80484243583413 180.79455291141213
+                M 267.91711106598854 197.64035417722943
+                A 64 64 0 0 1 199.3694066554421 176.9079720385362
                 " />
             
 
                 <path id="dayPath2" fill="none" d="
-                    M 174.61920371505641 197.19182106361387
-                    A 96 96 0 0 1 156.9974592677883 109.0859069306
+                    M 169.9484237249381 190.96878269640393
+                    A 96 96 0 0 1 158.47238168530413 104.55081656334951
                 " />
                 
 
                 <path id="timePath2" fill="none" d="
-                M 211.46643447911524 172.48932424052236
-                A 52 52 0 0 1 200.51135377235425 117.71566644753621
+                M 208.6751429075467 169.33147728131067
+                A 52 52 0 0 1 201.50402594053955 115.33086094941365
                 " />
             
 
                 <path id="pctPath2" fill="none" d="
-                M 202.80484243583413 180.79455291141213
-                A 64 64 0 0 1 189.3216661813591 113.38082024312149
+                M 199.3694066554421 176.9079720385362
+                A 64 64 0 0 1 190.54341654220252 110.44567501466294
                 " />
             
 
                 <path id="dayPath3" fill="none" d="
-                    M 162.540145793056 94.77837957947955
-                    A 96 96 0 0 1 222.00758708524003 44.37286151714524
+                    M 164.71875190863386 90.53619663080964
+                    A 96 96 0 0 1 235.04323081190248 41.519956865506884
                 " />
                 
 
                 <path id="timePath3" fill="none" d="
-                M 200.51135377235425 117.71566644753621
-                A 52 52 0 0 1 238.41379061487163 85.58897790405086
+                M 201.50402594053955 115.33086094941365
+                A 52 52 0 0 1 245.57567527534823 84.6128725002035
                 " />
             
 
                 <path id="pctPath3" fill="none" d="
-                M 189.3216661813591 113.38082024312149
-                A 64 64 0 0 1 235.97081921830357 73.84028049729338
+                M 190.54341654220252 110.44567501466294
+                A 64 64 0 0 1 244.78544649273627 72.63892000025047
                 " />
             
 
                 <path id="dayPath4" fill="none" d="
-                    M 237.02988400999905 41.24919253263033
-                    A 96 96 0 0 1 267.68762456896684 42.336457755831276
+                    M 250.353546806065 40.50954260425783
+                    A 96 96 0 0 1 277.0759893364141 44.697283140521606
                 " />
                 
 
                 <path id="timePath4" fill="none" d="
-                M 238.41379061487163 85.58897790405086
-                A 52 52 0 0 1 263.1661578059001 86.46681128472487
+                M 245.57567527534823 84.6128725002035
+                A 52 52 0 0 1 268.13306422085265 88.14789711376837
                 " />
             
 
                 <path id="pctPath4" fill="none" d="
-                M 235.97081921830357 73.84028049729338
-                A 64 64 0 0 1 266.4352711457233 74.92069081196908
+                M 244.78544649273627 72.63892000025047
+                A 64 64 0 0 1 272.54838673335706 76.98971952463799
                 " />
             
 
                 <path id="dayPath5" fill="none" d="
-                    M 282.4508995147505 46.51646082947134
-                    A 96 96 0 0 1 299.79503869999337 55.03918706846724
+                    M 291.3432268930387 50.34286949831349
+                    A 96 96 0 0 1 305.53395223892164 58.91190655617754
                 " />
                 
 
                 <path id="timePath5" fill="none" d="
-                M 263.1661578059001 86.46681128472487
-                A 52 52 0 0 1 279.9521859745391 94.71528768320229
+                M 268.13306422085265 88.14789711376837
+                A 52 52 0 0 1 282.8831830994597 97.05472267750564
                 " />
             
 
                 <path id="pctPath5" fill="none" d="
-                M 266.4352711457233 74.92069081196908
-                A 64 64 0 0 1 287.09499812250965 85.07266176394127
-                " />
-            
-
-                <path id="dayPath6" fill="none" d="
-                    M 312.1244386903447 64.17223741861693
-                    A 96 96 0 0 1 323.1593127278935 75.53774663181736
-                " />
-                
-
-                <path id="timePath6" fill="none" d="
-                M 279.9521859745391 94.71528768320229
-                A 52 52 0 0 1 291.68003419711596 106.79453449391823
-                " />
-            
-
-                <path id="pctPath6" fill="none" d="
-                M 287.09499812250965 85.07266176394127
-                A 64 64 0 0 1 301.5292728579889 99.93942706943781
+                M 272.54838673335706 76.98971952463799
+                A 64 64 0 0 1 290.70237919933504 87.95196637231463
                 " />
             </defs>
 
             <path d="
                 M 329 136.5
-                A 80 80 0 0 1 278.1510789830134 210.99976237630636
-                L 263.5755394915067 173.74988118815318
+                A 80 80 0 0 1 272.6463888324856 212.92544272153677
+                L 260.8231944162428 174.7127213607684
                 A 40 40 0 0 0 289 136.5
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath0" font-family="Calibri" startOffset="50%" text-anchor="middle">Markdown</textPath>
+                    <textPath href="#dayPath0" font-family="Calibri" startOffset="50%" text-anchor="middle">C</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath0" startOffset="50%" text-anchor="middle">07:36</textPath>
+                <textPath font-family="Calibri" href="#timePath0" startOffset="50%" text-anchor="middle">08:46</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath0" startOffset="50%" text-anchor="middle">19.1%</textPath>
+                <textPath font-family="Calibri" href="#pctPath0" startOffset="50%" text-anchor="middle">20.2%</textPath>
                 </text>
             
 
             <path d="
-                M 278.1510789830134 210.99976237630636
-                A 80 80 0 0 1 191.25605304479268 191.86819113926515
-                L 220.12802652239634 164.18409556963258
-                A 40 40 0 0 0 263.5755394915067 173.74988118815318
+                M 272.6463888324856 212.92544272153677
+                A 80 80 0 0 1 186.96175831930262 187.00996504817027
+                L 217.9808791596513 161.75498252408514
+                A 40 40 0 0 0 260.8231944162428 174.7127213607684
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath1" font-family="Calibri" startOffset="50%" text-anchor="middle">Other</textPath>
+                    <textPath href="#dayPath1" font-family="Calibri" startOffset="50%" text-anchor="middle">Python</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath1" startOffset="50%" text-anchor="middle">07:29</textPath>
+                <textPath font-family="Calibri" href="#timePath1" startOffset="50%" text-anchor="middle">08:12</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath1" startOffset="50%" text-anchor="middle">18.8%</textPath>
+                <textPath font-family="Calibri" href="#pctPath1" startOffset="50%" text-anchor="middle">18.9%</textPath>
                 </text>
             
 
             <path d="
-                M 191.25605304479268 191.86819113926515
-                A 80 80 0 0 1 174.4020827266989 107.60102530390185
-                L 211.70104136334945 122.05051265195092
-                A 40 40 0 0 0 220.12802652239634 164.18409556963258
+                M 186.96175831930262 187.00996504817027
+                A 80 80 0 0 1 175.92927067775315 103.93209376832868
+                L 212.46463533887658 120.21604688416434
+                A 40 40 0 0 0 217.9808791596513 161.75498252408514
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath2" font-family="Calibri" startOffset="50%" text-anchor="middle">Python</textPath>
+                    <textPath href="#dayPath2" font-family="Calibri" startOffset="50%" text-anchor="middle">Markdown</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath2" startOffset="50%" text-anchor="middle">07:12</textPath>
+                <textPath font-family="Calibri" href="#timePath2" startOffset="50%" text-anchor="middle">07:36</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath2" startOffset="50%" text-anchor="middle">18.0%</textPath>
+                <textPath font-family="Calibri" href="#pctPath2" startOffset="50%" text-anchor="middle">17.5%</textPath>
                 </text>
             
 
             <path d="
-                M 174.4020827266989 107.60102530390185
-                A 80 80 0 0 1 232.71352402287945 58.17535062161673
-                L 240.8567620114397 97.33767531080836
-                A 40 40 0 0 0 211.70104136334945 122.05051265195092
+                M 175.92927067775315 103.93209376832868
+                A 80 80 0 0 1 243.73180811592033 56.673650000313074
+                L 246.36590405796017 96.58682500015654
+                A 40 40 0 0 0 212.46463533887658 120.21604688416434
                 Z
             " fill="#ff00ff" />
             
 
                 <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath3" font-family="Calibri" startOffset="50%" text-anchor="middle">C</textPath>
+                    <textPath href="#dayPath3" font-family="Calibri" startOffset="50%" text-anchor="middle">Other</textPath>
                 </text>
                 
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath3" startOffset="50%" text-anchor="middle">06:19</textPath>
+                <textPath font-family="Calibri" href="#timePath3" startOffset="50%" text-anchor="middle">07:29</textPath>
                 </text>
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath3" startOffset="50%" text-anchor="middle">15.9%</textPath>
+                <textPath font-family="Calibri" href="#pctPath3" startOffset="50%" text-anchor="middle">17.3%</textPath>
                 </text>
             
 
             <path d="
-                M 232.71352402287945 58.17535062161673
-                A 80 80 0 0 1 270.79408893215407 59.525863514961344
-                L 259.89704446607703 98.01293175748067
-                A 40 40 0 0 0 240.8567620114397 97.33767531080836
+                M 243.73180811592033 56.673650000313074
+                A 80 80 0 0 1 278.43548341669634 62.11214940579748
+                L 263.71774170834817 99.30607470289874
+                A 40 40 0 0 0 246.36590405796017 96.58682500015654
                 Z
             " fill="#ff00ff" />
             
@@ -263,15 +245,15 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath4" startOffset="50%" text-anchor="middle">7.7%</textPath>
+                <textPath font-family="Calibri" href="#pctPath4" startOffset="50%" text-anchor="middle">7.0%</textPath>
                 </text>
             
 
             <path d="
-                M 270.79408893215407 59.525863514961344
-                A 80 80 0 0 1 296.618747653137 72.21582720492658
-                L 272.8093738265685 104.3579136024633
-                A 40 40 0 0 0 259.89704446607703 98.01293175748067
+                M 278.43548341669634 62.11214940579748
+                A 80 80 0 0 1 301.1279739991688 75.81495796539329
+                L 275.0639869995844 106.15747898269665
+                A 40 40 0 0 0 263.71774170834817 99.30607470289874
                 Z
             " fill="#ff00ff" />
             
@@ -287,61 +269,46 @@
             
 
                 <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath5" startOffset="50%" text-anchor="middle">5.8%</textPath>
+                <textPath font-family="Calibri" href="#pctPath5" startOffset="50%" text-anchor="middle">5.3%</textPath>
                 </text>
             
 
             <path d="
-                M 296.618747653137 72.21582720492658
-                A 80 80 0 0 1 314.6615910724861 90.79928383679727
-                L 281.83079553624304 113.64964191839863
-                A 40 40 0 0 0 272.8093738265685 104.3579136024633
-                Z
-            " fill="#ff00ff" />
-            
-
-                <text font-family="Calibri" font-size="9" fill="#C4B5FD">
-                    <textPath href="#dayPath6" font-family="Calibri" startOffset="2%" text-anchor="start">YAML</textPath>
-                </text>
-                
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#timePath6" startOffset="50%" text-anchor="middle">02:04</textPath>
-                </text>
-            
-
-                <text font-family="Calibri" font-size="8" fill="#C4B5FD">
-                <textPath font-family="Calibri" href="#pctPath6" startOffset="50%" text-anchor="middle">5.2%</textPath>
-                </text>
-            
-
-            <path d="
-                M 314.6615910724861 90.79928383679727
-                A 80 80 0 0 1 324.888831167375 111.18428740782407
-                L 286.9444155836875 123.84214370391203
-                A 40 40 0 0 0 281.83079553624304 113.64964191839863
+                M 301.1279739991688 75.81495796539329
+                A 80 80 0 0 1 316.70566325252787 93.88611536675761
+                L 282.85283162626394 115.19305768337881
+                A 40 40 0 0 0 275.0639869995844 106.15747898269665
                 Z
             " fill="#ff00ff" />
             
 
             <path d="
-                M 324.888831167375 111.18428740782407
-                A 80 80 0 0 1 328.14043702494627 124.80422180868177
-                L 288.57021851247316 130.6521109043409
-                A 40 40 0 0 0 286.9444155836875 123.84214370391203
+                M 316.70566325252787 93.88611536675761
+                A 80 80 0 0 1 325.5118777392726 113.13480013330509
+                L 287.2559388696363 124.81740006665254
+                A 40 40 0 0 0 282.85283162626394 115.19305768337881
                 Z
             " fill="#ff00ff" />
             
 
             <path d="
-                M 328.14043702494627 124.80422180868177
+                M 325.5118777392726 113.13480013330509
+                A 80 80 0 0 1 328.2714668153963 125.728066611071
+                L 288.6357334076981 131.1140333055355
+                A 40 40 0 0 0 287.2559388696363 124.81740006665254
+                Z
+            " fill="#ff00ff" />
+            
+
+            <path d="
+                M 328.2714668153963 125.728066611071
                 A 80 80 0 0 1 329 136.49999999999991
                 L 289 136.49999999999994
-                A 40 40 0 0 0 288.57021851247316 130.6521109043409
+                A 40 40 0 0 0 288.6357334076981 131.1140333055355
                 Z
             " fill="#ff00ff" />
             
-      <text font-family="Calibri" x="245" y="266.5" font-size="12" text-anchor="middle" fill="#C4B5FD"><tspan font-weight="bold">Total:</tspan> 38 hrs 34 mins</text>
+      <text font-family="Calibri" x="245" y="266.5" font-size="12" text-anchor="middle" fill="#C4B5FD"><tspan font-weight="bold">Total:</tspan> 42 hrs 3 mins</text>
       </g>
 <g transform="translate(0, 352.5) scale(1)">
         <text x="40" y="18" font-size="14" fill="#C4B5FD" font-family="Calibri" font-weight="bold">
@@ -595,90 +562,90 @@
 <rect x="384" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="384" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="396" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.21" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.41" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.30" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.73" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.88" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="396" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="408" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.52" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="408" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.16" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.18" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.33" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.25" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.56" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.67" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="396" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.16" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="408" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.40" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="408" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.14" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="408" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="408" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="408" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.43" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="408" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="408" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.18" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="420" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.29" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="408" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="408" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.27" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="408" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.16" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="420" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.24" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="420" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="420" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="420" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.73" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="420" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.59" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="420" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="420" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.50" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="432" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.31" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="420" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.56" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="420" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.45" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="420" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.27" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="420" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.39" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="432" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.25" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="432" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="432" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="432" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="432" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.35" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="432" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.28" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="432" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="432" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="444" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.11" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="444" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.24" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="444" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.20" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="444" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="444" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.12" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="444" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="444" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="444" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="444" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="456" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="456" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="456" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="456" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.28" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="456" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="456" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.59" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="456" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.46" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="456" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="456" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="468" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="468" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="468" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="468" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="468" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.27" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="468" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="468" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="1.00" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="468" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.32" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="468" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.75" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="468" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.26" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="468" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.25" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.31" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.21" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.21" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.25" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.18" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="480" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.37" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="480" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.53" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="492" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.20" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.29" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="480" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.41" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="492" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.17" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="492" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="492" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="492" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.45" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="492" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.47" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="492" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.43" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="492" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.20" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="492" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.35" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="492" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.37" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="492" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.34" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="492" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.17" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="504" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="504" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.25" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="504" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.21" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="504" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="504" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="504" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.26" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="504" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.27" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="504" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.13" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="516" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.37" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="516" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.99" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="516" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.15" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="504" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="504" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.23" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="504" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.12" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="516" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.30" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="516" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.74" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="516" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.14" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="516" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="516" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.30" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="516" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="516" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.24" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="516" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.16" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="516" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="528" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="528" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.26" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="528" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.15" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="528" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.98" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="528" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="528" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.13" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="528" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.74" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="528" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="528" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.41" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="528" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.72" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="540" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.28" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="528" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.33" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="528" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.55" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="540" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.23" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="540" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="540" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="540" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
@@ -700,34 +667,34 @@
 <rect x="564" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="564" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="576" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.36" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.29" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="576" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.57" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.44" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="576" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="576" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="576" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.12" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.24" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="588" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.35" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="576" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.11" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.17" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.20" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="588" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.28" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.11" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="588" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.19" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.17" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="600" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.26" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="600" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.22" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="600" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="0" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.13" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.12" stroke="#C4B5FD" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
-<rect x="624" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.10" stroke="#C4B5FD" stroke-width="0.5" />
+<rect x="624" y="36" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="1.00" stroke="#C4B5FD" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#C4B5FD" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#ff00ff" fill-opacity="0.1"/>
